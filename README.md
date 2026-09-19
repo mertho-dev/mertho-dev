@@ -29,15 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alimert2209&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimert2209&layout=compact&theme=tokyonight&cache_seconds=86400"/>
-</p>
-
----
-
 ## ⭐ Featured Projects
 
 ### 🔹 Microservices E-Commerce (Example)
