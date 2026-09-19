@@ -38,16 +38,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <a href="https://github.com/alimert2209">
-    <img src="https://raw.githubusercontent.com/alimert2209/alimert2209/output/github-contribution-grid-snake.svg"/>
-  </a>
-</p>
-
----
-
 ## ⭐ Featured Projects
 
 ### 🔹 Microservices E-Commerce (Example)
